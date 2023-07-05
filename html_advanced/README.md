@@ -1,1 +1,1 @@
-This tasks is about html and css it's fun
+This is an amateur advanced html and css task
