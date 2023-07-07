@@ -1,1 +1,2 @@
-This is an amateur advanced html and css task
+This is an advanced html. THIS is the image homepage(1).fig.jpg
+
