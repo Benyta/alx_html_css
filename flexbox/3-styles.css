@@ -381,12 +381,6 @@
  .section-services .row{
     flex-wrap: wrap;
   }
-  .services .row{
-    flex-wrap: wrap;
-  }
-  .section .row{
-    flex-wrap: wrap;
-  }
   /*** 4. CARD ***/
   
   /* Card (all styles)
