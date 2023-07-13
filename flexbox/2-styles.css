@@ -311,7 +311,7 @@
   
   /* Section (all styles)
       ============================= */
-      .section-latest-news{
+      .latest_news section section-latest-news{
         flex-direction: row-reverse;
       }
   
