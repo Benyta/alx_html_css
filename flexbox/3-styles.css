@@ -377,7 +377,9 @@
   }
 
   /* Section SERVICES ============================= */
-  
+  .row{
+    flex-wrap: wrap;
+  }
  .section-services .row{
     flex-wrap: wrap;
   }
