@@ -311,9 +311,6 @@
   
   /* Section (all styles)
       ============================= */
-      .latest_news .section .section-latest-news{
-        flex-direction: row-reverse;
-      }
   
   .section {
     padding: var(--section-padding);
@@ -378,7 +375,9 @@
   }
 
   /* Section Latest news ============================= */
-  
+  .latest_news .section .section-latest-news{
+    flex-direction: row-reverse;
+  }
   /*** 4. CARD ***/
   
   /* Card (all styles)
